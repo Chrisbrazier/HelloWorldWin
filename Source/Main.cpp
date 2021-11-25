@@ -92,6 +92,7 @@ public:
            subclass also calls the superclass's method.
         */
         // yes lad 
+        // testing a new branch
 
     private:
         JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (MainWindow)
