@@ -28,5 +28,5 @@ void MainComponent::resized()
     // If you add any child components, this is where you should
     // update their positions.
     toggleButton.setBounds(10, 10, 30, 30);
-
+    // The toggle is working now that I upgraded the project to the latest set of build tools 
 }
